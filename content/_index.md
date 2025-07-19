@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+I’m a passionate fresher skilled in Java, HTML, and CSS, eager to build creative and efficient software solutions.

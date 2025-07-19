@@ -1,23 +1,24 @@
 [
 	{
-		"name":"AWS Solutions Architect",
-		"description": "AWS Certified Solutions Architect – Associate",
-		"badge":"https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png",
-		"proof":"https://www.credly.com/badges/9c168644-e23c-4605-9d98-91b5db56e6c9"
+		"name":"Virtual Internship In Salesforce.",
+		"description": "Completed virtual Salesforce internship with hands-on CRM and cloud platform experience.",
+		"proof":"https://smartinternz.com/internships/salesforce_certificates/eaa2e3560da230a4ce52f167bd8d98ab"
 
 	},
 	{
-		"name":"ACP-JSD",
-		"description": "Jira Service Desk Administator",
-		"badge":"https://www.certmetrics.com/api/ob/image/atlassian/c/4/",
-		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=4&t=c&d=2020-05-11&ci=AT00143196"
+		"name":"Java Full Stack In Wipro.",
+		"description": "Java Full Stack trained at Wipro with skills in Core Java, JDBC, JSP, Servlets, and frontend.",
+		"proof":"https://cert.diceid.com/cid/H1pRbWrsRR?verify=true "
 
 	},
 	{
-		"name":"ACP-JCA",
-		"description": "Jira Cloud Administator",
-		"badge":"https://www.certmetrics.com/api/ob/image/atlassian/c/26/",
-		"proof":"https://www.certmetrics.com/atlassian/public/badge.aspx?i=26&t=c&d=2020-08-07&ci=AT00143196"
-		
+		"name":"Data Visualization In TCS",
+		"description": "Trained in Data Visualization at TCS "
+	},
+	{
+		"name":" Enterprise Data Science in IBM.",
+		"description": "Trained in Enterprise Data Science at IBM focused on business insights and decision-making.",
+		"proof":"https://www.credly.com/badges/eb3ba625-17af-4fed-a61f-f7c83ecbb270/print"
+
 	}
 ]
