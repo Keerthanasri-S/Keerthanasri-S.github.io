@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-I’m a passionate fresher skilled in Java, HTML, and CSS, eager to build creative and efficient software solutions.
+Full Stack Developer skilled in building responsive web applications using Java, Spring Boot, React, and MySQL. Strong in both frontend and backend development with a focus on clean code, performance, and user experience
