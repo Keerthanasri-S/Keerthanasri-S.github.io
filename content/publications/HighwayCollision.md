@@ -1,6 +1,6 @@
 ---
 title: "Highway Collision Avoidance by Detection of Animal’s Images"
-# date: "2023-02-16"
+date: 2023-02-16
 draft: false
 tags: [deep learning, animal detection, highway safety, CNN, image processing, computer vision]
 ---
