@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Full Stack Developer skilled in building responsive web applications using Java, Spring Boot, React, and MySQL. Strong in both frontend and backend development with a focus on clean code, performance, and user experience
+Backend Developer with expertise in Java, JDBC, SQL, and Spring Boot, focused on building secure, scalable server-side applications. Skilled in database optimization, backend integration, and writing clean, maintainable code with strong problem-solving abilities in dynamic team environments.
