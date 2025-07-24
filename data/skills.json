@@ -15,7 +15,14 @@
   {
     "grouping": "Platform Development & Administration",
     "skills": [{ "name": "MySQL" }]
-  }
-  
+  },
+  {
+    "grouping": "Areas of Interest",
+    "skills": [
+      {"name": "Backend Development"},
+      {"name": "ECE"}
+    ]
+  }
+
 
 ]
