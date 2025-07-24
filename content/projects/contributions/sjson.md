@@ -15,22 +15,7 @@ sitemap:
 
 The project supports complete JSON parsing capabilities with custom classes for each type and uses **Jackson** only in unit tests as a reference to validate correctness.
 
-### Key Features
 
-- **Custom JSON Type Support**:
-  - Fully implemented types: `JsonString`, `JsonNumber`, `JsonBoolean`, `JsonNull`, `JsonArray`, and `JsonObjects`.
-  - Example: `JsonBoolean` manually reads and validates boolean values (`true`, `false`) character-by-character from input.
-
-- **Manual Stream-Based Parsing**:
-  - Uses a custom-built `JsonReader` to read characters directly from input streams.
-  - Parsing is done in a recursive-descent style for full understanding of nested structures.
-
-- **Configurable Parse Modes**:
-  - Provides `STRICT` and `LAX` parsing modes, offering flexibility for handling edge cases or malformed JSON.
-
-- **Comparison and Testing**:
-  - **Jackson** is used in tests to assert correctness of parsed output.
-  - Custom `.equals()` and `.hashCode()` methods implemented for deep comparison (avoids relying on `.toString()`).
 
 ### Technologies Used
 
