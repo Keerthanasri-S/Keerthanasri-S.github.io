@@ -15,7 +15,7 @@ lastName = ""
 phone = "8778947245"
 showSocializations = true
 showContact = false
-sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["skills","publications","project","contributions","experience","education","blog"]
 
 
 [params.google]
