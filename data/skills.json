@@ -13,6 +13,17 @@
     ]
   },
   {
+    "grouping": "programming model",
+    "skills": [
+      { "name": "Object Orient Programming" },
+      { "name": "Functional Orient Programming" },
+      { "name": "Data Orient Programming" },
+      { "name": "Ascept Orient Programming" }
+     
+      
+    ]
+  },
+  {
     "grouping": "Platform Development & Administration",
     "skills": [{ "name": "MySQL" }]
   },
