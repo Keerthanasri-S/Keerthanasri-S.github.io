@@ -3,11 +3,13 @@
         "school":"K.Ramakrishnan College Of Engineering",
         "degree":"Bachelor Of Engineering",
         "major":"Electronic And Communication Engineering",
+        "cgpa":"8.1",
         "range":"2021 - 2025"
     },
     {
         "school":"Syed Ammal Matric Girls Hr.Sec.School",
         "degree":"HSC",
+        "percentage":"87%",
         "range":"2020 - 2021"
     }
     
