@@ -8,15 +8,27 @@
     "proof":"https://smartinternz.com/internships/salesforce_certificates/eaa2e3560da230a4ce52f167bd8d98ab"
   },
   {
-    "grouping":"Certificates",
-     "skills": [
-    {"company": "Wipro"},
-    {"summary": "Java Full Stack trained at Wipro with skills in Core Java, JDBC, JSP, Servlets, and frontend.\nProof: https://cert.diceid.com/cid/H1pRbWrsRR?verify=true"},
+    "grouping": "Certificates",
+    "role": "",
+    "range": "",
+    "company": "Wipro",
+    "summary": "Java Full Stack trained at Wipro with skills in Core Java, JDBC, JSP, Servlets, and frontend.\nProof: https://cert.diceid.com/cid/H1pRbWrsRR?verify=true"
+  },
 
-    {"company": "TCS"},
-    {"summary": "Trained in Data Visualization at TCS"},
-    {"company": "IBM"},
-    {"summary": "Trained in Enterprise Data Science at IBM focused on business insights and decision-making.\nProof: https://www.credly.com/badges/eb3ba625-17af-4fed-a61f-f7c83ecbb270/print"}
-     ]
+  {
+    "grouping": "",
+    "role": "",
+    "range": "",
+    "company": "TCS",
+    "summary": "Trained in Data Visualization at TCS"
+  },
+  {
+    "grouping": "",
+    "role": "",
+    "range": "",
+    "company": "IBM",
+    "summary": "Trained in Enterprise Data Science at IBM focused on business insights and decision-making.\nProof: https://www.credly.com/badges/eb3ba625-17af-4fed-a61f-f7c83ecbb270/print"
+    
+     
   }
 ]

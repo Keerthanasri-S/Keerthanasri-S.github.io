@@ -1,5 +1,6 @@
 ---
 title: "CSRR Loaded Dual Band E-Shaped Slot Antenna for Biomedical Application"
+image: "/img/csrr-logo.png"
 date: 2025-05-01
 draft: false
 tags: [antenna design, metamaterials, CSRR, biomedical engineering, dual-band, CST]
