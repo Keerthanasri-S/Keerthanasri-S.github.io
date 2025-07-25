@@ -4,7 +4,6 @@
     "grouping": "Languages, Operating Systems & Tools",
     "skills": [
       { "name": "Java" },
-      { "name": "git" },
       { "name": "HTML" },
       { "name": "css" },
       { "name": "JAVASCRIPT"},

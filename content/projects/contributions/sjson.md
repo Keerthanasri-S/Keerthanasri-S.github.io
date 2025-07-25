@@ -1,7 +1,7 @@
 ---
 title: "sjson"
 link: "https://github.com/techatpark/sjson"
-# image: "/img/sjson-logo.png"
+image: "/img/sjson-logo.png.jpeg"
 description: "A custom-built lightweight JSON parser implemented from scratch in Java"
 featured: true
 tags: ["Java", "Parser", "Custom JSON", "JUnit", "Jackson"]
