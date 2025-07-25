@@ -15,5 +15,5 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-A deep learning-based system that detects animals on highways in real-time to help prevent collisions.  
+A paper presented in IEEE the topic is **Highway Collision Avoidance** deep learning-based system that detects animals on highways in real-time to help prevent collisions.  
 Combines CNN, HOG, and SVM for accurate image recognition and driver alerting.

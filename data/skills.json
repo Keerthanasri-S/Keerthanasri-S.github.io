@@ -3,9 +3,9 @@
   {
     "grouping": "Languages, Operating Systems & Tools",
     "skills": [
-      { "name": "Java" },
+      { "name": "JAVA" },
       { "name": "HTML" },
-      { "name": "css" },
+      { "name": "CSS" },
       { "name": "JAVASCRIPT"},
       { "name": "SPRINGBOOT"}
       
@@ -14,8 +14,8 @@
   {
     "grouping": "programming model",
     "skills": [
-      { "name": "Object Orient Programming" },
-      { "name": "Functional Orient Programming" }
+      { "name": "Object Oriented Programming" },
+      { "name": "Functional Programming" }
      
       
     ]

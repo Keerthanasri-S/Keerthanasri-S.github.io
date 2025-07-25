@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Backend Developer with expertise in Java, JDBC, SQL, and Spring Boot, focused on building secure, scalable server-side applications. Skilled in database optimization, backend integration, and writing clean, maintainable code with strong problem-solving abilities in dynamic team environments.
+Backend Developer with expertise in Java, JDBC, SQL, and Spring Boot, focused on building secure, scalable server-side applications. Skilled in  backend integration, and writing clean, maintainable code with strong problem-solving abilities in dynamic team environments.

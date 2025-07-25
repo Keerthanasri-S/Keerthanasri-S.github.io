@@ -15,7 +15,9 @@ sitemap:
 
 The project supports complete JSON parsing capabilities with custom classes for each type and uses **Jackson** only in unit tests as a reference to validate correctness.
 
+###  My Contribution
 
+I implemented the logic to **parse JSON boolean values** — converting `true` and `false` in the raw JSON into structured `JsonBoolean` objects. This involved handling character-level parsing using a `Reader` and ensuring accurate type conversion and validation within the custom parser framework.
 
 ### Technologies Used
 
@@ -27,4 +29,4 @@ The project supports complete JSON parsing capabilities with custom classes for 
 
 This project is a great example for those wanting to dive deep into how JSON works, or for environments where using full libraries would be overkill.
 
-> Project Link: [techatpark/sjson](https://github.com/techatpark/sjson)
+> 🔗 Project Link: [techatpark/sjson](https://github.com/techatpark/sjson)
