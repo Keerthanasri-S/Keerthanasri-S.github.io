@@ -28,7 +28,7 @@
     "grouping": "Areas of Interest",
     "skills": [
       {"name": "Backend Development"},
-      {"name": "ECE"}
+      {"name": "Data Engineering"}
     ]
   }  
 ]
