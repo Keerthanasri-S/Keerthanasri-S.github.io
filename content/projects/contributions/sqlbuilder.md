@@ -1,7 +1,7 @@
 ---
 title: "SQL Builder"
 link: "https://github.com/techatpark/sql-builder"
-image: "/img/sql-builder-logo.png"
+image: "/img/sqlbuilder-logo.png"
 description: "A powerful and intuitive SQL query builder for developers and learners."
 featured: true
 tags: ["Java", "SQL", "Builder Pattern", "Query Generator", "JDBC"]
