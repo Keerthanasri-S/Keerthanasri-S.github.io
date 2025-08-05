@@ -13,7 +13,7 @@ sitemap:
 
 **sjson** is an open-source project aimed at building a **lightweight JSON parser** completely from scratch in Java, without depending on libraries like `org.json`, `Gson`, or `Jackson` for parsing. It’s a low-level educational tool designed to give full control over how JSON data is read, interpreted, and validated.
 
-
+The project supports complete JSON parsing capabilities with custom classes for each type and uses **Jackson** only in unit tests as a reference to validate correctness.
 
 ###  My Contribution
 
