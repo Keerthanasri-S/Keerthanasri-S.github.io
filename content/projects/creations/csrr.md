@@ -12,6 +12,7 @@ CSRR Loaded Dual Band E-Shaped Slot Antenna for Biomedical Application
 
 ### Project Overview
 
+This project presents the design of a **compact dual-band microstrip patch antenna** specifically for **biomedical applications**. It utilizes **Complementary Split Ring Resonator (CSRR)** and **E-shaped slot** techniques to achieve dual-frequency resonance, suitable for **ISM (2.45 GHz)** and **MedRadio (5.8 GHz)** bands.
 
 
 ### Tools & Technologies
