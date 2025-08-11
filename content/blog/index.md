@@ -11,6 +11,4 @@ I contributed to the `sjson` project by adding support for JSON boolean values l
 
 Booleans (`true`, `false`) are core JSON values — lowercase, without quotes. Values like `"true"`, `1`, or `FALSE` are invalid as booleans. Supporting them is essential for reading any valid JSON structure.
 
-### Parsing Logic in Brief
 
-The parser checks input one character at a time. When it sees `t` or `f`, it tries to match the full word (`true` or `false`) using an `expect()` helper method. If any character doesn’t match, it throws an error — ensuring strict, spec-compliant parsing.
