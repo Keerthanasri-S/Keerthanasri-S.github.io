@@ -20,28 +20,7 @@ This project proposes a *deep learning-based image recognition system* designed 
 - Support Vector Machine (SVM): For classification refinement.
 - MATLAB: For implementing image preprocessing and algorithm testing.
 
-### Design Features
 
-- Detects animals in highway scenarios using *camera-mounted vehicles*.
-- Capable of identifying *animal presence up to 20 meters ahead*.
-- Incorporates *frame differentiation, gesture recognition, and **OpenCV-based motion analysis*.
-- Classification includes preprocessing → segmentation (K-means) → feature extraction → classification.
-- Accuracy comparison shows the proposed method outperforms traditional *HOG* and *HAAR* descriptors.
-
-### Performance Summary
-
-| Feature Descriptor  | Sensitivity | Specificity | Accuracy | Avg. Processing Time |
-|---------------------|-------------|-------------|----------|----------------------|
-| HOG                 | 80.4%       | 83.5%       | 82.5%    | 100 ms               |
-| HAAR                | 78.4%       | 77.8%       | 78.1%    | 150 ms               |
-| Proposed Algorithm  | 83.9%       | 85.9%       | 85.5%    | 90 ms                |
-
-### Applications
-
-- *Highway Safety Systems* for real-time animal detection.
-- *Wildlife Monitoring* through thermal/visible imaging.
-- *Driver Assistance Systems* in smart vehicles.
-- *Animal tracking systems* in agricultural and forest edge zones.
 
 ---
 
