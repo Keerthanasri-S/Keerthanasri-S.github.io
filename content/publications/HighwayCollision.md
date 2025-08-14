@@ -36,7 +36,12 @@ This project proposes a *deep learning-based image recognition system* designed 
 | HAAR                | 78.4%       | 77.8%       | 78.1%    | 150 ms               |
 | Proposed Algorithm  | 83.9%       | 85.9%       | 85.5%    | 90 ms                |
 
+### Applications
 
+- *Highway Safety Systems* for real-time animal detection.
+- *Wildlife Monitoring* through thermal/visible imaging.
+- *Driver Assistance Systems* in smart vehicles.
+- *Animal tracking systems* in agricultural and forest edge zones.
 
 ---
 
