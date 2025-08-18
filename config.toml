@@ -6,7 +6,6 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
-showcertifications= true
 
 
 [params]
@@ -17,7 +16,8 @@ lastName = ""
 phone = "8778947245"
 showSocializations = true
 showContact = false
-sections = ["skills","contributions","publications","creations","experience","education","blog"]
+showcertifications= true
+sections = ["skills","contributions","publications","creations","experience","certification","education","blog"]
 
 
 [params.google]
