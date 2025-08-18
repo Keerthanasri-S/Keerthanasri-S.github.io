@@ -14,6 +14,10 @@
 		"name":" Enterprise Data Science in IBM.",
 		"description": "Trained in Enterprise Data Science at IBM focused on business insights and decision-making.",
 		"proof":"https://www.credly.com/badges/eb3ba625-17af-4fed-a61f-f7c83ecbb270/print"
-
+	},
+	{
+		"name":"SQL",
+		"description":"Certified in SQL (HackerRank) – Demonstrated proficiency in writing complex queries, using joins, aggregations, subqueries, and optimizing database operations to solve real-world problems.",
+		"proof":"OCIEBFAC87D0"
 	}
 ]

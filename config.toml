@@ -6,6 +6,8 @@ PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
 enableGitInfo = false
+showcertifications= true
+
 
 [params]
 address = "Chennai,India"
