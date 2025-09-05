@@ -1,23 +1,26 @@
 [
-	
-	{
-		"name":"Java Full Stack In Wipro.",
-		"description": "Java Full Stack trained at Wipro with skills in Core Java, JDBC, JSP, Servlets, and frontend.",
-		"proof":"https://cert.diceid.com/cid/H1pRbWrsRR?verify=true "
-
-	},
-	{
-		"name":"Data Visualization In TCS",
-		"description": "Trained in Data Visualization at TCS "
-	},
-	{
-		"name":" Enterprise Data Science in IBM.",
-		"description": "Trained in Enterprise Data Science at IBM focused on business insights and decision-making.",
-		"proof":"https://www.credly.com/badges/eb3ba625-17af-4fed-a61f-f7c83ecbb270/print"
-	},
-	{
-		"name":"SQL",
-		"description":"Certified in SQL (HackerRank) – Demonstrated proficiency in writing complex queries, using joins, aggregations, subqueries, and optimizing database operations to solve real-world problems.",
-		"proof":"OCIEBFAC87D0"
-	}
+  {
+    "name": "Java Full Stack at Wipro",
+    "description": "Trained in Java Full Stack development at Wipro with expertise in Core Java, JDBC, JSP, Servlets, and frontend technologies.",
+    "proof": "https://cert.diceid.com/cid/H1pRbWrsRR?verify=true"
+    
+  },
+  {
+    "name": "Data Visualization at TCS",
+    "description": "Certified in Data Visualization techniques and tools through TCS training program.",
+    "proof": ""
+    
+  },
+  {
+    "name": "Enterprise Data Science at IBM",
+    "description": "Certified in Enterprise Data Science at IBM, focusing on business insights and data-driven decision-making.",
+    "proof": "https://www.credly.com/badges/eb3ba625-17af-4fed-a61f-f7c83ecbb270/print"
+    
+  },
+  {
+    "name": "SQL (HackerRank)",
+    "description": "Certified in SQL with demonstrated proficiency in writing complex queries, using joins, aggregations, subqueries, and optimizing database operations.",
+    "proof": "https://www.hackerrank.com/certificates/OCIEBFAC87D0"
+    
+  }
 ]
